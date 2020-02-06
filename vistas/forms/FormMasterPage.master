@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="FormMasterPage.master.cs" Inherits="vistas_forms_FormMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Sistema DOBE</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <script type="text/javascript" src="../../js/scrip.js"></script>
+    <link rel="icon" href="../../images/favicon.ico" type="image/x-icon"/>
+	<link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" media="screen" href="../../css/style.css"/>
+	<script type="text/javascript" src="../../js/jquery.js"></script>
+	<script type="text/javascript" src="../../js/superfish.js"></script>
+	<script type="text/javascript" src="../../js/jquery.responsivemenu.js"></script>
+	<script type="text/javascript" src="../../js/jquery.mobilemenu.js"></script>
+	<script type="text/javascript" src="../../js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="../../js/jquery.mobile.customized.min.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="../../css/inicioSesion.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/utilidades.css"/>
+	<link rel="stylesheet" type="text/css" href="../../css/princ_estudiante.css"/>
+    <link rel="stylesheet" type="text/css" href="../../css/formstyle.css"/>
+
+</head>
+<body>
+     <header class="pad0">
+      
+      <div class="container_12 p_zero">
+    		<div class="grid_12">
+           		<div class="top_block">
+        				<h1><img src="../../images/logo.png"/></h1>
+        				
+     			</div>
+		   
+      </div>
+
+      </div>
+          
+    </header>
+    <div class="contenido">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

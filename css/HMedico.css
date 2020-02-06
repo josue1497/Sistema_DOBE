@@ -1,0 +1,154 @@
+input#paperas_us, input#sarampion_us, input#difteria_us, input#rubeola_vacuna{
+	height: 20px;
+	width: 20%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+}
+
+input#edad_padre{
+	height: 20px;
+	width: 4%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 2%;
+}
+
+input#edad_madre{
+	height: 20px;
+	width: 4%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 1.8%;
+}
+
+
+input#estado_salud_padre, input#estado_salud_madre{
+	height: 20px;
+	width: 30%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+}
+
+b#miembro{
+	color: #333;
+	margin-left: 62%;
+	font-size: 14px;
+}
+
+label#tuberculosis_fml{
+	color: #333333;
+	font-weight: bold;
+	margin-left: 3.1%;
+
+}
+
+input#tuberculosis_fml{
+	margin-right: 3.9%;
+}
+
+label#diabetes_fml{
+	color: #333333;
+	font-weight: bold;
+	margin-left: 5.8%;	
+}
+
+input#diabetes_fml{
+	margin-right: 3%;
+
+}
+
+input#cancer_fml{
+	margin-right: 2%;
+}
+
+input#asma_fml{
+	margin-right: 4.2%;
+}
+
+
+input#asma_us{
+	margin-left: 5%;
+}
+
+input#varicela_us {
+	margin-left: 1.5%;
+}
+
+input#rubeola_us{
+	margin-left: 0.6%;
+}
+
+input#otros_us{
+
+	height: 20px;
+	width: 27.5%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 1.2%;
+}
+
+input#cirugias_us, input#fecha_cirugias_us, input#alergias_us{
+	height: 20px;
+	width: 20%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 1.2%;
+}
+
+input#hernias_us{
+	height: 20px;
+	width: 20%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 1.2%;
+}
+
+input#otro_procedimiento_us{
+	height: 20px;
+	width: 49.5%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 4.5%;
+}
+
+input#alcohol_us, input#tabaco_us{
+	height: 20px;
+	width: 20%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 0%;
+}
+
+input#otros_habitos_us{
+	height: 20px;
+	width: 27%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 0%;
+}
+
+input#otros_sufrido_us{
+	height: 20px;
+	width: 43%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 1%;
+}
+
+input#guardar_hmedico{
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 35%;
+	width: 15%;
+	height: 28px;
+	border-radius: 5px;
+	margin-right: 1%;
+}
+
+input#ditribucionc{
+	box-shadow: 2px 2px 2px 0px #999;
+	width: 15%;
+	height: 28px;
+	border-radius: 5px;
+}
+
+

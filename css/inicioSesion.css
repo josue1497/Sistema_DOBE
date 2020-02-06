@@ -1,0 +1,40 @@
+input.usuario  {
+	margin-left: 39%;
+	margin-bottom: 10px;
+	height: 20px;
+	width: 20%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+}
+
+input.password  {
+	margin-left: 39%;
+	margin-bottom: 10px;
+	height: 20px;
+	width: 20%;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+}
+
+h2#titleInicioSesion{
+	font-size: 35px;
+	margin-bottom: 20px;
+    text-align: center;
+}
+.rol {
+    padding:0.5% 4%;
+    margin-left: 39%;
+	margin-bottom: 10px;
+    border-radius: 5px;
+	box-shadow: 2px 2px 2px 0px #999;
+}
+input.acceder{
+	box-shadow: 2px 2px 2px 0px #999;
+	margin-left: 42%;
+	width: 15%;
+	height: 28px;
+	border-radius: 5px;
+}
+.UserMessage {
+    text-align:center;
+}

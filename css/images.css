@@ -1,0 +1,114 @@
+header h1 img.logo {
+    width: 550px;
+    height: 100px;
+    background-image: url('../images/logo.png');
+    border: transparent;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
+.header_links div.slogan {
+    width: 330px;
+    height: 52px;
+    background-image: url('../images/slogan.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+
+/******** ÃCONOS DEL COMPLEJO ********/
+footer div.uts {
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:6px;
+    background-image: url('../images/icono_uts.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+footer div.uft {
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:6px;
+    background-image: url('../images/icono_uft.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+footer div.tac {
+    width: 20px;
+    height: 20px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:6px;
+    background-image: url('../images/icono_tac.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+/******** IMÃGENES DE LOS PIE DE PÃGINAS ********/
+footer div.twitter {
+    width: 20px;
+    height: 20px;
+    margin-right:6px;
+    display:inline-block;
+    vertical-align:middle;
+    background-image: url('../images/twitter.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+footer div.facebook {
+    width: 20px;
+    height: 20px;
+    margin-right:6px;
+    display:inline-block;
+    vertical-align:middle;
+    background-image: url('../images/facebook.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+footer div.civ {
+    width: 20px;
+    height: 27px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:6px;
+    background-image: url('../images/civ.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+footer div.fundadeporte {
+    width: 20px;
+    height: 25px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:6px;
+    background-image: url('../images/fundadeporte.png');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+footer div.epa {
+    width: 68px;
+    height: 20px;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:6px;
+    background-image: url('../images/epa.gif');
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position:relative;
+}
